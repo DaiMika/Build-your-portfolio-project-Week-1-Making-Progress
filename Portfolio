@@ -1,0 +1,128 @@
+uild your portfolio project (Week 1): Making Progress
+
+
+By making these adjustments, I have been able to mitigate the impact of these unexpected technical challenges and keep the project on track.
+
+
+Challenges.
+
+Technical Challenges:
+
+Unexpected Issues: During the initial research phase, I did not expect the following challenges;
+
+1 Integration Difficulties: Integrating third-party APIs has proven to be more complex than expected, with issues arising around compatibility and data formatting.
+
+2 Performance Bottlenecks: The application experienced performance bottlenecks when handling large datasets, which we did not foresee during the initial testing with smaller data samples.
+
+3 Version Control Conflicts: There was an encountered unexpected conflicts while merging code in version control, leading to delays in development.
+
+4 Adaptations: To address these technical challenges, there was an  implementation of the following adaptations:
+
+API Integration: I allocated additional time to thoroughly review the API documentation and conducted smaller integration tests to identify and resolve compatibility issues early on. Also, i reached out to the API support teams for clarification and assistance.
+
+Performance Optimization: To tackle performance bottlenecks, a series of conduction performance profiling sessions to identify the root causes were made. Then optimised the algorithms and data processing methods, and incorporated caching strategies to improve efficiency.
+
+Version Control Best Practices: I established clearer guidelines and best practices for using version control, including more frequent commits, detailed commit messages, and regular code reviews. Also, I utilised branching strategies to isolate new features and bug fixes.
+
+
+I addressed these non-technical challenges to maintain smooth collaboration and project progress.
+
+Non-Technical Challenges.
+
+Unexpected Challenges: During the course of the project, several non-technical challenges were observed during the initial planning phase:
+
+1 Resource Availability: Some necessary resources, such as access to specific datasets or hardware, were not as readily available as expected, causing delays.
+
+2 Communication Barriers: I faced occasional communication barriers, including misunderstandings during virtual meetings and delays in response times on collaborative platforms.
+
+Adaptations: To address these non-technical challenges, I implemented the following adaptations:
+
+1 Flexible Scheduling: Introduction of more flexible scheduling for meetings, including asynchronous updates and the use of shared calendars to better accommodate different time zones. Additionally, there was an established bi-weekly check-in to ensure everyone stays aligned.
+
+2 Resource Management: I identified alternative resources and backup options where possible. For critical resources, there was an established clear process for requesting access well in advance and allocated buffer time in our project timeline to account for potential delays.
+
+3 Enhanced Communication: To overcome communication barriers, clearer communication protocols, such as detailed meeting agendas and minutes came into play. I also utilised a combination of synchronous and asynchronous communication tools, including instant messaging for quick clarifications and project management tools for task tracking and updates.
+
+
+Collaboration/Communication.
+
+Receiving and providing help, I have been able to enhance my project and contribute to the overall success of my peers' projects as well.
+
+
+External Source/Help: During the first week of the project, I received significant help from various sources;
+
+1 Peer Assistance: I reached out to peers for feedback on specific aspects of the project. Their insights helped refine my approach and identify potential issues early.
+
+2 Mentorship: My mentor provided invaluable guidance on project scope and technical implementation, offering suggestions on best practices and resources.
+
+3 Staff Support: I have consulted with staff members regarding access to necessary resources and clarification on project requirements. Their support helped streamline my workflow and resolve logistical issues.
+
+Provided Help: In addition to receiving help, I was able to contribute by assisting others as well;
+
+1 Peer Support: I shared my knowledge and experience with peers who faced challenges in their projects, offering advice on technical issues and project management.
+
+2 Knowledge Sharing: I participated in discussion forums and study groups, sharing useful resources and tips. 
+
+
+Project Updates.
+
+My aim is to ensure the successful and high-quality completion of the project within a realistic timeframe.
+
+Changes to Deliverables.
+
+Outline Changes:
+
+Feature Scope Adjustment:
+
+Original Deliverable: Implement a fully functional recommendation system.
+
+Change: Reduce the scope to a basic recommendation system prototype.
+
+Timeline Adjustment:
+
+Original Deliverable: Complete all core features within the initial given duration.
+
+Change: Extend the timeline for core features to four weeks.
+
+Documentation Enhancement:
+
+Original Deliverable: Basic user manual.
+
+Change includes comprehensive technical documentation and a detailed user manual.
+
+Reasoning.
+
+Feature Scope Adjustment:
+
+Reason: The integration and development of a fully functional recommendation system proved more complex than expected. Focusing on a prototype allows for a more manageable scope while still demonstrating core functionality.
+
+Timeline Adjustment:
+
+Reason: Unforeseen technical and non-technical challenges required additional time for resolution. Extending the timeline ensures that core features are implemented robustly without compromising quality.
+
+Documentation Enhancement:
+
+Reason: Feedback from peers and mentors emphasised the importance of detailed documentation for future maintenance and scalability. 
+
+Enhancing documentation supports better understanding and usability of the project by others.
+
+Progress.
+By maintaining a steady pace and continuously evaluating and adapting the project plan, I am optimistic about meeting the project goals and deadlines.
+Rating- 7 out of 10
+Measurement:
+Tasks Completed: I am measuring progress by the number of completed tasks versus the planned tasks for the week. This includes milestones such as setting up the project environment, completing initial research, and starting development on key features.
+
+Time Spent: Tracking the hours spent on different aspects of the project to ensure alignment with the project timeline.
+
+Deliverables Met: Evaluating whether the deliverables for the week, such as initial prototypes or documentation drafts, have been met.
+
+Rationale:
+I have given a rating of 7 because, while significant progress has been made in setting up the project and starting on key features, some unforeseen technical and non-technical challenges have slightly delayed the progress. Despite these challenges, the project is moving forward, and adjustments have been made to stay on track.
+
+Timeline Assessment:
+Assessment: Based on the current progress and the adaptations made to address challenges, I am confident that the project will be completed on time as specified in the Project Proposal and MVP definition. The adjustments to the project plan, such as extending the timeline for core features and focusing on a prototype for the recommendation system, ensure that we can deliver a high-quality project within the given timeframe.
+
+
+
+
+
